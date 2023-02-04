@@ -34,5 +34,6 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "cSpell.words": ["booleanos", "linkar", "Rocketseat"]
+  "cSpell.words": ["booleanos", "linkar", "Rocketseat"],
+  "liveServer.settings.port": 5502
 }
